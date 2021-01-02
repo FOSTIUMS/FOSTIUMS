@@ -13,6 +13,6 @@
 
 ## FOSTI UMS Github Organization
 
-<a href="https://github.com/Fosti-UMS">Jump To FOSTI UMS Github Organization</a>
+<a href="https://github.com/FOSTI-UMS">Jump To FOSTI UMS Github Organization</a>
 
 
