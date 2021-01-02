@@ -9,13 +9,6 @@
 # Forum Open Source Teknik Informatika Universitas Muhammadiyah Surakarta
 
   
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Go; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: git@alfiankan.com;
-
 
 
 <br/>
