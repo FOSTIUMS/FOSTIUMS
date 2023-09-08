@@ -1,5 +1,5 @@
 ## Welcome to FOSTI UMS Official GitHub Account 🐧
-We are Forum Open Source Teknik Informatika student activity units from the Fakultas Komunikasi dan Informatika Universitas Muhammadiyah Surakarta. We are an open community for Universitas Muhammadiyah Surakarta active student providing a place to upgrade their skills through exploration, creation, management, and collaboration to scale up technology development, offering many advantages to people by bringing the spirit of Open Source.
+We are Forum Open Source Teknik Informatika student activity units from Fakultas Komunikasi dan Informatika Universitas Muhammadiyah Surakarta. We are an open community for Universitas Muhammadiyah Surakarta active student providing a place to upgrade their skills through exploration, creation, management, and collaboration to scale up technology development, offering many advantages to people by bringing the spirit of Open Source.
 
 ### Come With 3 Departement
 - 📡 Keilmuan dan Riset Teknologi (Science and Research Technology Departement)
