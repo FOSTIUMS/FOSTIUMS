@@ -15,7 +15,7 @@ We are Forum Open Source Teknik Informatika student activity units from the Faku
   <a href="https://instagram.com/fosti_ums" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/fosti.ums" target="_blank">
+  <a href="https://tiktok.com/@fosti.ums" target="_blank">
     <img alt="TikTok" src="https://img.shields.io/static/v1?style=for-the-badge&message=TikTok&color=000000&logo=TikTok&logoColor=FFFFFF&label=" />
   </a>
   <a href="https://www.youtube.com/@fostiums" target="_blank">
